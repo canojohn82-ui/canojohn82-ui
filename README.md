@@ -27,7 +27,7 @@ Tengo experiencia trabajando con:
 - Procedimientos y validaciones
 - MySQL / MariaDB
 
-### 🚀 Actualmente aprendiendo
+### Actualmente aprendiendo
 
 - Desarrollo de aplicaciones backend
 - Integración de Java con bases de datos mediante **JDBC**
@@ -35,13 +35,13 @@ Tengo experiencia trabajando con:
 - Arquitectura y organización de proyectos
 - Buenas prácticas de programación
 
-### 📌 Proyectos
+### Proyectos
 
 Estoy construyendo proyectos para fortalecer mis conocimientos y desarrollar un portafolio profesional.
 
 > Mi objetivo es crecer como desarrollador backend, construir soluciones útiles y seguir aprendiendo nuevas tecnologías.
 
-### 📫 Contacto
+### Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
